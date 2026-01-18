@@ -29,7 +29,7 @@
 ## ✨ 3. Key Functions (주요 기능)
 
 ### 👤 회원 관리 시스템
-
+<br>
 <p align="center">
   <img src="images/오목 회원가입 화면.png" width="45%">
 </p>
@@ -38,10 +38,12 @@
 - **상세 회원가입**: 아이디/닉네임 중복 확인, 비밀번호 안정성 검사, 우편번호 API 연동 
 - **캐릭터 시스템**: 8종의 캐릭터 중 선택 가능하며 로비 및 게임방에 표시 
 
-  <br> <img src="images/오목 캐릭터 변경.png" width="80%">
+  <p align="center">
+  <img src="images/오목 캐릭터 변경.png" width="80%">
+  </p>
 
 ### 🎮 게임 플레이 및 커뮤니티
-
+<br>
 <p align="center">
   <img src="images/오목 게임 로비 화면.png" width="80%">
   <img src="images/오목 게임방 화면.png" width="80%">
