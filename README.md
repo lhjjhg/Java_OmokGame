@@ -29,7 +29,7 @@
 ## ✨ 3. Key Functions (주요 기능)
 
 ### 👤 회원 관리 시스템
-<br>
+
 <p align="center">
   <img src="images/오목 회원가입 화면.png" width="45%">
 </p>
@@ -38,12 +38,10 @@
 - **상세 회원가입**: 아이디/닉네임 중복 확인, 비밀번호 안정성 검사, 우편번호 API 연동 
 - **캐릭터 시스템**: 8종의 캐릭터 중 선택 가능하며 로비 및 게임방에 표시 
 
-  <p align="center">
-  <img src="images/오목 캐릭터 변경.png" width="80%">
-  </p>
+  <br> <img src="images/오목 캐릭터 변경.png" width="80%">
 
 ### 🎮 게임 플레이 및 커뮤니티
-<br>
+
 <p align="center">
   <img src="images/오목 게임 로비 화면.png" width="80%">
   <img src="images/오목 게임방 화면.png" width="80%">
@@ -53,8 +51,10 @@
 - **관전 및 승격**: 풀방(2명)일 경우 관전 모드로 진입하며, 플레이어 이탈 시 자동 승격
 - **멀티 채팅**: 로비 내 전체 채팅 및 특정 유저와의 1:1 채팅 지원 
 
-   <br> <img src="images/오목 1대1 채팅.png" width="50%">
-
+  <p align="center">
+    <img src="images/오목 1대1 채팅.png" width="50%">
+  </p>
+  
 ### 🛠 관리자 모드 및 편의 기능
 - **관리자 창**: 유저 정보 통합 조회 및 수정, 삭제, 복원(Soft Delete) 기능 
 - **부가 기능**: 메시지 검색, 이모티콘 전송, BGM 및 다크 모드, 실시간 날씨 조회 
