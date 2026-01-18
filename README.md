@@ -1,4 +1,4 @@
-# ⚪⚫ Network Omok Game (Java)
+# ⚪⚫ Omok Game (Java)
 
 > **Java Swing과 소켓(Socket) 통신을 활용한 실시간 멀티플레이어 오목 게임입니다.**
 > 데이터베이스 연동을 통해 사용자 관리 및 전적 기록 기능을 제공합니다.
