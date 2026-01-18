@@ -1,7 +1,7 @@
 # ⚪⚫ Omok Game (Java)
 
 <p align="center">
-  <img src="images/오목 로그인 화면.png" width="45%">
+  <img src="images/오목 로그인 화면.png" width="80%">
 </p>
 
 > [cite_start]**Java Swing과 소켓(Socket) 통신을 활용한 실시간 멀티플레이어 오목 게임입니다.** [cite: 1, 158, 160]
@@ -37,11 +37,11 @@
 - [cite_start]**로그인 및 보안**: DB 연동을 통한 인증 및 비밀번호 찾기/재설정 기능 [cite: 2, 7, 8]
 - [cite_start]**상세 회원가입**: 아이디/닉네임 중복 확인, 비밀번호 안정성 검사, 우편번호 API 연동 [cite: 13, 15, 22]
 - [cite_start]**캐릭터 시스템**: 8종의 캐릭터 중 선택 가능하며 로비 및 게임방에 표시 [cite: 31, 33]
-  <br> <img src="images/오목 캐릭터 변경.png" width="40%">
+  <br> <img src="images/오목 캐릭터 변경.png" width="80%">
 
 ### 🎮 게임 플레이 및 커뮤니티
 <p align="center">
-  <img src="images/오목 게임 로비 화면.png" width="45%">
+  <img src="images/오목 게임 로비 화면.png" width="80%">
   <img src="images/오목 게임방 화면.png" width="80%">
 </p>
 
